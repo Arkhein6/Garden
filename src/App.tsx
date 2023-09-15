@@ -27,7 +27,7 @@ const App = () => {
 							</p>
 							<a>Read More</a>
 						</div>
-						<FontAwesomeIcon icon={faArrowRight} size="2x" beat />
+						<FontAwesomeIcon icon={faArrowRight} size="2x" beat className="arrow"/>
 					</div>
 				</section>
 				<section className="second">
@@ -71,7 +71,6 @@ const App = () => {
 								adipisicing elit. Tempore saepe eaque placeat
 								voluptatem inventore ab. Facilis officia minima
 								deserunt hic fugit qui. Pariatur, doloribus
-								voluptas nisi itaque modi necessitatibus vero
 							</p>
 							<a>More details</a>
 						</div>
